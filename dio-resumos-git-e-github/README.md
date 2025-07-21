@@ -14,11 +14,12 @@ Git e Github da [Digital innovation One](http://www.dio.me/).
 | Aulas | Resumos |
 |-------|---------|
 |Gravando alterações no repositório local | [Resumos]
-()|
 
 
 ```
 git init
+git status
+git commit -m
 ```
 
 ## _Referências
